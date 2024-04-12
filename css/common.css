@@ -58,7 +58,6 @@ button {
   column-gap: 24px;
   row-gap: 24px;
   align-items: center;
-  justify-content: center;
 }
 
 .gallery-item {
